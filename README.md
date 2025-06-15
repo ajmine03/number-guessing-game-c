@@ -3,7 +3,8 @@
 
 A simple terminal-based game where you try to guess a random number between 1 and 100.
 
-![Screenshot 2025-06-15 102216](https://github.com/user-attachments/assets/80e3bd72-79aa-4025-b904-dec27cb51635)
+![image](https://github.com/user-attachments/assets/c72965b1-436e-4697-8988-754e22e8396c)
+
 
 ## How to Run
 ```bash
